@@ -1,5 +1,7 @@
 <?php
 
+echo "This Program contains Inheritance"
+
 class player{
     public $name;
     public $age;
